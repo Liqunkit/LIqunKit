@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiqunKit&exclude_repo=LiqunKit_,anuraghazra.github.io)](https://github.com/Liqunkit/LiqunKit_)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiqunKit&show_icons=true&theme=radical)
